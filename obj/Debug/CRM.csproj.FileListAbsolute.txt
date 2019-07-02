@@ -1,0 +1,244 @@
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\bin\Debug\CRM.exe.config
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.csproj.ResolveComReference.cache
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\bin\Debug\CRM.exe
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\bin\Debug\CRM.pdb
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.AboutBox1.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmActivitiesRecords.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmActivity.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.FrmChangePassword.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmClientDeclaration.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmClientRecords.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmclientReport.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmCompanyRecords.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmComplaintRecords.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmContactRecords.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmcontactReport.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmContacts.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmEmployee.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmEmployeeRecords.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmEmployeeReport.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmFeedbackForm1.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmFund.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmFundRecords.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmInvestmentRecords.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frminvestmentReport.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmLogs.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmMainMenu.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmPasswordRecovery.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmClient.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmCompanyinfo.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmProfit.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmRegisteredUsersRecord.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmSales.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmSalesRecord.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmsalesReport.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmSuggestions.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmLogin.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmInvestment.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmSplash.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmUserRegistration.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.Properties.Resources.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.csproj.GenerateResource.Cache
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.exe
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.pdb
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmDashboard.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmFinancialProfile.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmObjectiveReport.resources
+C:\Users\Vaibhav-PC\Desktop\CRM\CRM\obj\Debug\CRM.frmKnowledgereport.resources
+D:\New folder (2)\CRM\CRM\bin\Debug\CRM.exe.config
+D:\New folder (2)\CRM\CRM\obj\Debug\CRM.csproj.ResolveComReference.cache
+D:\New folder (2)\CRM\CRM\obj\Debug\CRM.exe
+D:\New folder (2)\CRM\CRM\obj\Debug\CRM.pdb
+C:\Users\raj20\Desktop\CRM\CRM\bin\Debug\CRM.exe.config
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.csproj.ResolveComReference.cache
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.exe
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.pdb
+C:\Users\raj20\Desktop\CRM\CRM\bin\Debug\CRM.exe
+C:\Users\raj20\Desktop\CRM\CRM\bin\Debug\CRM.pdb
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.AboutBox1.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmActivitiesRecords.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmActivity.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.FrmChangePassword.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmClientDeclaration.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmClientRecords.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmclientReport.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmCompanyRecords.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmComplaintRecords.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmContactRecords.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmcontactReport.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmContacts.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmDashboard.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmEmployee.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmEmployeeRecords.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmEmployeeReport.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmFeedbackForm1.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmFinancialProfile.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmFund.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmFundRecords.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmInvestmentRecords.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frminvestmentReport.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmKnowledgereport.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmLogs.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmMainMenu.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmObjectiveReport.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmPasswordRecovery.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmClient.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmCompanyinfo.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmProfit.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmRegisteredUsersRecord.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmSales.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmSalesRecord.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmsalesReport.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmSuggestions.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmLogin.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmInvestment.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmSplash.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.frmUserRegistration.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.Properties.Resources.resources
+C:\Users\raj20\Desktop\CRM\CRM\obj\Debug\CRM.csproj.GenerateResource.Cache
+D:\VKP\Net\Projects\CRM local\CRM\CRM\bin\Debug\CRM.exe.config
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.csproj.ResolveComReference.cache
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.exe
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.pdb
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.AboutBox1.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmActivitiesRecords.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmActivity.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.FrmChangePassword.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmClientDeclaration.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmClientRecords.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmclientReport.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmCompanyRecords.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmComplaintRecords.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmContactRecords.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmcontactReport.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmContacts.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmDashboard.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmEmployee.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmEmployeeRecords.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmEmployeeReport.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmFeedbackForm1.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmFinancialProfile.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmFund.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmFundRecords.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmInvestmentRecords.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frminvestmentReport.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmKnowledgereport.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmLogs.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmMainMenu.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmObjectiveReport.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmPasswordRecovery.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmClient.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmCompanyinfo.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmProfit.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmRegisteredUsersRecord.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmSales.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmSalesRecord.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmsalesReport.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmSuggestions.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmLogin.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmInvestment.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmSplash.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.frmUserRegistration.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.Properties.Resources.resources
+D:\VKP\Net\Projects\CRM local\CRM\CRM\obj\Debug\CRM.csproj.GenerateResource.Cache
+D:\VKP\Net\Projects\CRM local\CRM\CRM\bin\Debug\CRM.exe
+D:\VKP\Net\Projects\CRM local\CRM\CRM\bin\Debug\CRM.pdb
+D:\CRM\CRM\bin\Debug\CRM.exe.config
+D:\CRM\CRM\obj\Debug\CRM.csproj.ResolveComReference.cache
+D:\CRM\CRM\obj\Debug\CRM.exe
+D:\CRM\CRM\obj\Debug\CRM.pdb
+D:\CRM\CRM\bin\Debug\CRM.exe
+D:\CRM\CRM\bin\Debug\CRM.pdb
+D:\CRM\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+D:\CRM\CRM\obj\Debug\CRM.AboutBox1.resources
+D:\CRM\CRM\obj\Debug\CRM.frmActivitiesRecords.resources
+D:\CRM\CRM\obj\Debug\CRM.frmActivity.resources
+D:\CRM\CRM\obj\Debug\CRM.FrmChangePassword.resources
+D:\CRM\CRM\obj\Debug\CRM.frmClientDeclaration.resources
+D:\CRM\CRM\obj\Debug\CRM.frmClientRecords.resources
+D:\CRM\CRM\obj\Debug\CRM.frmclientReport.resources
+D:\CRM\CRM\obj\Debug\CRM.frmCompanyRecords.resources
+D:\CRM\CRM\obj\Debug\CRM.frmComplaintRecords.resources
+D:\CRM\CRM\obj\Debug\CRM.frmContactRecords.resources
+D:\CRM\CRM\obj\Debug\CRM.frmcontactReport.resources
+D:\CRM\CRM\obj\Debug\CRM.frmContacts.resources
+D:\CRM\CRM\obj\Debug\CRM.frmDashboard.resources
+D:\CRM\CRM\obj\Debug\CRM.frmEmployee.resources
+D:\CRM\CRM\obj\Debug\CRM.frmEmployeeRecords.resources
+D:\CRM\CRM\obj\Debug\CRM.frmEmployeeReport.resources
+D:\CRM\CRM\obj\Debug\CRM.frmFeedbackForm1.resources
+D:\CRM\CRM\obj\Debug\CRM.frmFinancialProfile.resources
+D:\CRM\CRM\obj\Debug\CRM.frmFund.resources
+D:\CRM\CRM\obj\Debug\CRM.frmFundRecords.resources
+D:\CRM\CRM\obj\Debug\CRM.frmInvestmentRecords.resources
+D:\CRM\CRM\obj\Debug\CRM.frminvestmentReport.resources
+D:\CRM\CRM\obj\Debug\CRM.frmKnowledgereport.resources
+D:\CRM\CRM\obj\Debug\CRM.frmLogs.resources
+D:\CRM\CRM\obj\Debug\CRM.frmMainMenu.resources
+D:\CRM\CRM\obj\Debug\CRM.frmObjectiveReport.resources
+D:\CRM\CRM\obj\Debug\CRM.frmPasswordRecovery.resources
+D:\CRM\CRM\obj\Debug\CRM.frmClient.resources
+D:\CRM\CRM\obj\Debug\CRM.frmCompanyinfo.resources
+D:\CRM\CRM\obj\Debug\CRM.frmProfit.resources
+D:\CRM\CRM\obj\Debug\CRM.frmRegisteredUsersRecord.resources
+D:\CRM\CRM\obj\Debug\CRM.frmSales.resources
+D:\CRM\CRM\obj\Debug\CRM.frmSalesRecord.resources
+D:\CRM\CRM\obj\Debug\CRM.frmsalesReport.resources
+D:\CRM\CRM\obj\Debug\CRM.frmSuggestions.resources
+D:\CRM\CRM\obj\Debug\CRM.frmLogin.resources
+D:\CRM\CRM\obj\Debug\CRM.frmInvestment.resources
+D:\CRM\CRM\obj\Debug\CRM.frmSplash.resources
+D:\CRM\CRM\obj\Debug\CRM.frmUserRegistration.resources
+D:\CRM\CRM\obj\Debug\CRM.Properties.Resources.resources
+D:\CRM\CRM\obj\Debug\CRM.csproj.GenerateResource.Cache
+D:\VKP\Net\Projects\binay final project\CRM\CRM\bin\Debug\CRM.exe.config
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.csproj.ResolveComReference.cache
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.exe
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.pdb
+D:\VKP\Net\Projects\binay final project\CRM\CRM\bin\Debug\CRM.exe
+D:\VKP\Net\Projects\binay final project\CRM\CRM\bin\Debug\CRM.pdb
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.csprojResolveAssemblyReference.cache
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.AboutBox1.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmActivitiesRecords.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmActivity.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.FrmChangePassword.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmClientDeclaration.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmClientRecords.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmclientReport.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmCompanyRecords.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmComplaintRecords.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmContactRecords.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmcontactReport.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmContacts.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmDashboard.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmEmployee.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmEmployeeRecords.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmEmployeeReport.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmFeedbackForm1.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmFinancialProfile.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmFund.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmFundRecords.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmInvestmentRecords.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frminvestmentReport.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmKnowledgereport.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmLogs.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmMainMenu.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmObjectiveReport.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmPasswordRecovery.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmClient.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmCompanyinfo.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmProfit.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmRegisteredUsersRecord.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmSales.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmSalesRecord.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmsalesReport.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmSuggestions.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmLogin.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmInvestment.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmSplash.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.frmUserRegistration.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.Properties.Resources.resources
+D:\VKP\Net\Projects\binay final project\CRM\CRM\obj\Debug\CRM.csproj.GenerateResource.Cache
